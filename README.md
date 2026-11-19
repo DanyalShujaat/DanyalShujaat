@@ -67,5 +67,7 @@ My profile is about the product work and problems I care about, so it will remai
 I’m open to thoughtful conversations about product management, SaaS, HR technology, and building useful software.
 
 <p>
-  <a href="https://github.com/DanyalShujaat">GitHub</a>
+  <a href="https://github.com/DanyalShujaat">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/danyal-shujaat-1710abc">LinkedIn</a> ·
+  <a href="https://danyalportfolio.netlify.app/">Portfolio</a>
 </p>
