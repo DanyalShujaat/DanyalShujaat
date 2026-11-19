@@ -4,12 +4,13 @@
 
 > Turning messy workflows into products people can understand, trust, and enjoy using.
 
-I’m a product manager who likes being close to the problem: understanding users, shaping the product direction, mapping the workflow, and working with engineering to ship a focused solution.
+I’m a product manager who likes being close to the problem: understanding users, shaping product direction, mapping workflows, and working with engineering to ship focused solutions.
 
 ## About me
 
 - I work across product discovery, prioritization, UX, delivery, and iteration.
-- I’m building **Talvynza**, a connected HRMS for modern people operations.
+- I’ve worked on HRMS, CRM, and workflow-driven SaaS products across people operations, customer operations, and internal business processes.
+- I’m currently building **Talvynza**, a connected HRMS for modern people operations.
 - I care about clear product decisions, useful defaults, and interfaces that reduce friction.
 - I enjoy turning ambiguous business needs into simple, testable product flows.
 
@@ -21,7 +22,16 @@ I’m a product manager who likes being close to the problem: understanding user
 | User and business problem discovery | Cross-functional delivery | Clean, accessible UX |
 | Feature prioritization | Metrics, feedback, and iteration | Connected SaaS experiences |
 
-## Featured project
+## Experience across products
+
+My work sits at the intersection of business operations, software, and user experience. I’ve worked on products and workflows involving:
+
+- **HRMS and people operations:** recruitment, onboarding, employee records, attendance, leave, payroll, performance, and offboarding.
+- **CRM and customer operations:** structured records, pipeline visibility, ownership, follow-ups, and service workflows.
+- **SaaS platforms:** multi-tenant workspaces, roles and permissions, approvals, notifications, reporting, and audit trails.
+- **Internal tools:** turning manual, scattered processes into clear systems that teams can actually use every day.
+
+## Selected project
 
 ### Talvynza HRMS
 
@@ -49,6 +59,8 @@ Good products make the next action obvious. I aim for simple navigation, connect
 ## Currently building
 
 🚀 Talvynza HRMS · exploring better systems for people, work, and operations.
+
+My profile is about the product work and problems I care about, so it will remain relevant as projects evolve.
 
 ## Let’s connect
 
