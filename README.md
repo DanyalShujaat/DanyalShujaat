@@ -20,6 +20,15 @@ I turn complicated workflows into products people can understand and use. My wor
 - **BS in Data Science**; currently completing an **MS in Project Management**.
 - Drawn to products that replace scattered processes with clear ownership, connected records, and useful feedback.
 
+## The work in motion
+
+<p align="center">
+  <a href="https://github.com/DanyalShujaat/talvynza-hrms"><img src="assets/product-flow.gif" alt="Animated 3D product workflow showing Discover, Design, and Deliver" width="49%"></a>
+  <a href="https://github.com/DanyalShujaat/epilepsy-signal-lab"><img src="assets/data-observatory.gif" alt="Animated data observatory with moving signal waves and a glass data cube" width="49%"></a>
+</p>
+
+<p align="center"><sub>Discover the problem → shape the experience → ship and learn.</sub></p>
+
 ## Selected work
 
 | Project | What it is and what I did |
