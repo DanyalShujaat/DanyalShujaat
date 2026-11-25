@@ -1,73 +1,44 @@
+<p align="center">
+  <a href="https://danyalportfolio.netlify.app/">
+    <img src="assets/city-loop.gif" alt="Animated 3D-style city at night with moving light rail and the name Danyal Shujaat" width="100%">
+  </a>
+</p>
+
 # Hi, I’m Danyal 👋
 
-### Product Manager · SaaS Builder · Product-minded Operator
+**Product Manager · Data Scientist · SaaS Builder**
 
-> Turning messy workflows into products people can understand, trust, and enjoy using.
+I turn complicated workflows into products people can understand and use. My work spans product discovery, experience design, full-stack delivery, and data analysis—especially in HR technology and operational software.
 
-I’m a product manager who likes being close to the problem: understanding users, shaping product direction, mapping workflows, and working with engineering to ship focused solutions.
+[![Portfolio](https://img.shields.io/badge/Explore_my_portfolio-AB3F17?style=for-the-badge&logo=netlify&logoColor=white)](https://danyalportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-203C45?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyal-shujaat-1710abc)
+[![Email](https://img.shields.io/badge/Email_me-4C5452?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danyal5345@gmail.com)
 
-## About me
+### A little about me
 
-- I work across product discovery, prioritization, UX, delivery, and iteration.
-- I’ve worked on HRMS, CRM, and workflow-driven SaaS products across people operations, customer operations, and internal business processes.
-- I’m currently building **Talvynza**, a connected HRMS for modern people operations.
-- I care about clear product decisions, useful defaults, and interfaces that reduce friction.
-- I enjoy turning ambiguous business needs into simple, testable product flows.
+- Product manager at **Veevo Tech**, working where business needs, user journeys, and engineering meet.
+- **BS in Data Science**; currently completing an **MS in Project Management**.
+- Drawn to products that replace scattered processes with clear ownership, connected records, and useful feedback.
 
-## What I do
+## Selected work
 
-| Product | Execution | Experience |
-| --- | --- | --- |
-| Product strategy and roadmap | Requirements and acceptance criteria | Workflow and information architecture |
-| User and business problem discovery | Cross-functional delivery | Clean, accessible UX |
-| Feature prioritization | Metrics, feedback, and iteration | Connected SaaS experiences |
+| Project | What it is and what I did |
+| :--- | :--- |
+| **[Talvynza HRMS](https://github.com/DanyalShujaat/talvynza-hrms)** | A connected workspace for the employee lifecycle. I shaped the workflows and built React and FastAPI features for employee records, recruitment, attendance, leave, payroll, tasks, permissions, and audit history. |
+| **[Medica](https://github.com/DanyalShujaat/Medica)** | My final-year medical chatbot project. I built its retrieval-augmented answer flow so questions could be answered with relevant context from source material. |
+| **[Epilepsy Signal Lab](https://github.com/DanyalShujaat/epilepsy-signal-lab)** | An EEG seizure-classification project. I prepared signal data, trained and evaluated a supervised model, and built a visual demo to explain the workflow. [Try the demo →](https://danyalshujaat.github.io/epilepsy-signal-lab/) |
+| **[FIFA 19 Player Atlas](https://github.com/DanyalShujaat/fifa19-player-atlas)** | An exploratory analysis of football player data. I cleaned and explored the dataset with pandas, visualized player attributes, and built an interactive frontend for the findings. [Try the demo →](https://danyalshujaat.github.io/fifa19-player-atlas/) |
 
-## Experience across products
+## Where I work best
 
-My work sits at the intersection of business operations, software, and user experience. I’ve worked on products and workflows involving:
+| Discover | Design | Deliver |
+| :--- | :--- | :--- |
+| User and business problems, requirements, priorities, product direction | Workflows, information architecture, accessible interfaces, useful defaults | React, TypeScript, Python, FastAPI, PostgreSQL, analytics and iteration |
 
-- **HRMS and people operations:** recruitment, onboarding, employee records, attendance, leave, payroll, performance, and offboarding.
-- **CRM and customer operations:** structured records, pipeline visibility, ownership, follow-ups, and service workflows.
-- **SaaS platforms:** multi-tenant workspaces, roles and permissions, approvals, notifications, reporting, and audit trails.
-- **Internal tools:** turning manual, scattered processes into clear systems that teams can actually use every day.
+**Also comfortable with:** scikit-learn · pandas · data visualization · RAG workflows · cross-functional delivery
 
-## Selected project
+---
 
-### Talvynza HRMS
+### Let’s connect
 
-An end-to-end HR workspace connecting recruitment, onboarding, employee records, attendance, leave, payroll, requests, notifications, and task management.
-
-**Product focus:** one connected system for the employee lifecycle, with clear ownership, approvals, and useful context at every step.
-
-→ [Explore Talvynza HRMS](https://github.com/DanyalShujaat/talvynza-hrms)
-
-## Product and technical fluency
-
-![Product](https://img.shields.io/badge/Product-Strategy%20%7C%20Roadmaps-0f4bb5?style=for-the-badge)
-![UX](https://img.shields.io/badge/UX-Workflows%20%7C%20Systems-11a7a1?style=for-the-badge)
-![SaaS](https://img.shields.io/badge/SaaS-Multi--tenant-17365d?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## How I think about products
-
-Good products make the next action obvious. I aim for simple navigation, connected records, honest feedback, and workflows that help people finish important work without unnecessary complexity.
-
-## Currently building
-
-🚀 Talvynza HRMS · exploring better systems for people, work, and operations.
-
-My profile is about the product work and problems I care about, so it will remain relevant as projects evolve.
-
-## Let’s connect
-
-I’m open to thoughtful conversations about product management, SaaS, HR technology, and building useful software.
-
-<p>
-  <a href="https://github.com/DanyalShujaat">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/danyal-shujaat-1710abc">LinkedIn</a> ·
-  <a href="https://danyalportfolio.netlify.app/">Portfolio</a>
-</p>
+Have a product idea, data problem, or role to discuss? **[Send me a message through my portfolio](https://danyalportfolio.netlify.app/#contact)** or [email me directly](mailto:danyal5345@gmail.com).
